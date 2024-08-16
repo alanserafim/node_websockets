@@ -12,14 +12,9 @@ function emitirTextoEditor(dados){
     socket.emit("texto_editor", dados)
 }
 
-// socket.on("texto_documento", (texto) => {
-//     atualizaTextoEditor(texto);
-//   });
-  
-
 socket.on("texto_editor_clientes", (texto) => {
-    atualizaTextoEditor(texto)
-}
-)
+    atualizaTextoEditor(texto);
+  });
+
 
 export { emitirTextoEditor, selecionarDocumento }

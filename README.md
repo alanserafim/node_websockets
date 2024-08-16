@@ -9,7 +9,7 @@ Implementação do protocolo WebSockets em Node.js utilizando socket.io, express
 * Exibindo eventos em tempo real.
 * Agrupar clientes em salas do Socket.IO
 * Emitir eventos para uma sala específica
-* ""
+* Fluxo de criação de clusters, databases e documentos no mongoDB Atlas
 
 
 
@@ -22,6 +22,6 @@ Implementação do protocolo WebSockets em Node.js utilizando socket.io, express
 * [Instância do socket no lado do cliente](https://socket.io/docs/v4/client-socket-instance/#disconnect)
 * [Salas (Rooms) do socket.io](https://socket.io/docs/v4/rooms/)
 * [Emit cheatsheet](https://socket.io/docs/v4/emit-cheatsheet/)
-* []()
+* [Driver de conexão MongoDB](https://www.mongodb.com/pt-br/docs/drivers/)
 * []()
 * []()
