@@ -1,6 +1,6 @@
 # node_websockets
 Implementação do protocolo WebSockets em Node.js utilizando socket.io, express e mongoDB.
-
+A aplicação cria documentos de texto compartilhados em tempo real entre diferentes usuários.
 
 ### Assuntos tratados
 * Diferenciar o protocolo HTTP do WebSockets
@@ -10,6 +10,8 @@ Implementação do protocolo WebSockets em Node.js utilizando socket.io, express
 * Agrupar clientes em salas do Socket.IO
 * Emitir eventos para uma sala específica
 * Fluxo de criação de clusters, databases e documentos no mongoDB Atlas
+* Atualizar diferentes páginas a partir do mesmo evento
+* Criar, consultar, alterar e excluir documentos compartilhados.
 
 
 
@@ -23,5 +25,4 @@ Implementação do protocolo WebSockets em Node.js utilizando socket.io, express
 * [Salas (Rooms) do socket.io](https://socket.io/docs/v4/rooms/)
 * [Emit cheatsheet](https://socket.io/docs/v4/emit-cheatsheet/)
 * [Driver de conexão MongoDB](https://www.mongodb.com/pt-br/docs/drivers/)
-* []()
-* []()
+* [Cursor MongoDB](https://www.mongodb.com/pt-br/docs/drivers/node/current/fundamentals/crud/read-operations/cursor/)
