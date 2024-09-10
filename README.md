@@ -12,6 +12,7 @@ A aplicação cria documentos de texto compartilhados em tempo real entre difere
 * Fluxo de criação de clusters, databases e documentos no mongoDB Atlas
 * Atualizar diferentes páginas a partir do mesmo evento
 * Criar, consultar, alterar e excluir documentos compartilhados.
+* Estrutura da aplicação
 
 
 
@@ -26,3 +27,5 @@ A aplicação cria documentos de texto compartilhados em tempo real entre difere
 * [Emit cheatsheet](https://socket.io/docs/v4/emit-cheatsheet/)
 * [Driver de conexão MongoDB](https://www.mongodb.com/pt-br/docs/drivers/)
 * [Cursor MongoDB](https://www.mongodb.com/pt-br/docs/drivers/node/current/fundamentals/crud/read-operations/cursor/)
+* [Cookies](https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam?utm_source=gnarus&utm_medium=timeline)
+* [Estrutura Socket.io](https://socket.io/docs/v4/server-application-structure/)
