@@ -13,6 +13,8 @@ A aplicação cria documentos de texto compartilhados em tempo real entre difere
 * Atualizar diferentes páginas a partir do mesmo evento
 * Criar, consultar, alterar e excluir documentos compartilhados.
 * Estrutura da aplicação
+* Cadastrar usuários
+* Proteger as senhas dos usuários utilizando o módulo crypto do Node.js
 
 
 
