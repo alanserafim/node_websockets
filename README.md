@@ -15,6 +15,10 @@ A aplicação cria documentos de texto compartilhados em tempo real entre difere
 * Estrutura da aplicação
 * Cadastrar usuários
 * Proteger as senhas dos usuários utilizando o módulo crypto do Node.js
+* Gerar token JWT do usuário autenticado
+* Guardar o token JWT nos cookies do navegador
+* Registrar middlewares no servidor
+* Criar e utilizar namespaces para agrupar conexões
 
 
 
@@ -31,3 +35,8 @@ A aplicação cria documentos de texto compartilhados em tempo real entre difere
 * [Cursor MongoDB](https://www.mongodb.com/pt-br/docs/drivers/node/current/fundamentals/crud/read-operations/cursor/)
 * [Cookies](https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam?utm_source=gnarus&utm_medium=timeline)
 * [Estrutura Socket.io](https://socket.io/docs/v4/server-application-structure/)
+* [Problema de CORS](https://www.alura.com.br/artigos/como-resolver-erro-de-cross-origin-resource-sharing)
+* [Cookies - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
+* [Middlewares](https://socket.io/docs/v4/middlewares/)
+* [Namespaces](https://socket.io/docs/v4/namespaces/)
+* [Namespaces - Artigo](https://www.alura.com.br/artigos/namespaces-evitar-conflitos-codigo-javascript?utm_source=gnarus&utm_medium=timeline)
