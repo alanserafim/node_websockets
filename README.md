@@ -19,6 +19,8 @@ A aplicação cria documentos de texto compartilhados em tempo real entre difere
 * Guardar o token JWT nos cookies do navegador
 * Registrar middlewares no servidor
 * Criar e utilizar namespaces para agrupar conexões
+* Retornar o payload do token para o cliente
+* Registrar conexões no servidor
 
 
 
