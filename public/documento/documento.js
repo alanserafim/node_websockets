@@ -23,7 +23,6 @@ function atualizaInterfaceUsuarios(usuariosNoDocumento){
         <li class="list-group-item">${usuario}</li>
         `
     })
-
 }
 
 textoEditor.addEventListener("keyup", () => {
